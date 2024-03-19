@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul > li{
+    list-style: none;
+    text-decoration: none;
+}
+
+.marginTop{
+    margin-top: 300px;
+}
+
+.marginBottom{
+    margin-bottom: 10vw;
+}
+
+.paddingTop{
+    padding-top: 200px;
+}
+
+.navSizing{
+    height: 27%;
+}
